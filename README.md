@@ -15,7 +15,7 @@ This repository should be used as a reference for primary material, NOT the actu
 * [Introduction to Algorithms, 3rd Edition (The MIT Press)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) (recommended)
 
 
-and many other books. These books are to be used as primary sources, and should be digested BIT by BIT. The content of these books is not akin to a meal that you can eat in one seating. It is more akin to a buffet that you have to devour all by yourself. A REALLY, REALLY, really large buffet. You simply cannot digest it all in one go. This is fine. That is why we are here to help!
+and many other books. You can also find other primary sources such as wikipedia articles or YouTube videos. Those references should be used as primary sources, and should be digested BIT by BIT. The content of these books is not akin to a meal that you can eat in one seating. It is more akin to a buffet that you have to devour all by yourself. A REALLY, REALLY, really large buffet. You simply cannot digest it all in one go. This is fine. That is why we are here to help!
 
 This repository should be used in the follwing manner.
 
