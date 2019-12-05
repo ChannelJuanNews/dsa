@@ -43,9 +43,13 @@ Implementing these five advices will greatly help you on your journey to underst
 
 # Content
 
-* [Stack]()
-* [Queue]()
-* [Priority Queue]()
+* [Stack](./Stack) [done]
+* Queues
+    * [Queue](./Queue) [done]
+    *  [Priority Queue](./PriorityQueue) [done]
+* Linked Lists
+    * [Singly Linked List](./SinglyLinkedList) [!]
+    * [Doubly Linked List]() [!]
 
 ## How To Run
 
