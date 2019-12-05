@@ -32,7 +32,7 @@ This repository should be used in the follwing manner.
 
 Data structures and algorithms are often _**abstract**_. They are usually clear and unambiguous but since they are programming language independent, it may be hard to visualize what is happening under the hood. To avoid any sort of ambiguity that might arise use the following steps.
 
-1. DRAW out your data structure. Seriously. DRAW. IT. OUT. 
+1. DRAW out your data structure. Seriously. DRAW. IT. OUT.
 2. Walk through your code _**LINE BY LINE**_
 3. Try to explain what you are trying to do to others. (First-person)
 4. Have someone orally explain the problem and solution to you (Second-person)
@@ -52,7 +52,7 @@ Implementing these five advices will greatly help you on your journey to underst
 This requires [Node.js](https://nodejs.org/) to run.
 
 ```sh
-$ git clone <url>
+$ git clone git@github.com:ChannelJuanNews/dsa.git
 $ cd dsa
 $ cd queue
 $ node queue.js
