@@ -28,6 +28,8 @@ This repository should be used in the follwing manner.
 7. Once you have solved it, solve it AGAIN.
 8. Solve until you no longer need to look at the solution.
 
+Don't forget to take breaks! Taking a step away from your screen to clear your head can go a long way in helping you come up with a solution!
+
 # Advice
 
 Data structures and algorithms are often _**abstract**_. They are usually clear and unambiguous but since they are programming language independent, it may be hard to visualize what is happening under the hood. To avoid any sort of ambiguity that might arise use the following steps.
