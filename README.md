@@ -43,6 +43,8 @@ Implementing these five advices will greatly help you on your journey to underst
 
 # Content
 
+
+### Data Structures
 * [Stack](./Stack) [done]
 * Queues
     * [Queue](./Queue) [done]
@@ -50,6 +52,9 @@ Implementing these five advices will greatly help you on your journey to underst
 * Linked Lists
     * [Singly Linked List](./SinglyLinkedList) [!]
     * [Doubly Linked List]() [!]
+
+### Algorithms
+(coming soon)
 
 ## How To Run
 
@@ -61,12 +66,6 @@ $ cd dsa
 $ cd queue
 $ node queue.js
 ```
-
-
-n
-
- - Write MORE Tests
- - Add Night Mode
 
 License
 ----
