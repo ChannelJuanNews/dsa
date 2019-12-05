@@ -1,6 +1,6 @@
 # STACK
 
-![Stack Example](./stack_example)
+![Stack Example](./stack_example.png)
 
 A stack is a container of objects (or any data type for that matter) that are inserted and removed according to the last-in first-out (LIFO) principle. For anyone that has not heard of LIFO, it is the same as the First In Last Out (FILO) principle.
 
