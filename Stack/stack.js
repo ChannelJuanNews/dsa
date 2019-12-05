@@ -34,6 +34,12 @@ class Stack {
         this._stack.shift()
         console.log(this._stack)
     }
+
+    top(){
+        if(this._stack.length == 0){ return console.log("ERROR: stack is empty!")}
+        console.log(this._stack[0])
+        return this._stack[0]
+    }
 }
 
 // instantiate a new stack
@@ -41,10 +47,16 @@ let s = new Stack()
 
 // push to the stack
 s.push(10)
+s.top()
 s.push(20)
+s.top()
 s.push(30)
+s.top()
 s.push(40)
+s.top()
 s.push(50)
+s.top()
+
 
 // pop from the stack
 s.pop()
@@ -52,6 +64,10 @@ s.pop()
 s.pop()
 s.pop()
 s.pop()
+
+
+
+
 
 
 //============================= test edge cases
@@ -68,3 +84,6 @@ s.push(undefined)
 
 // pop an empty stack
 s.pop()
+
+// top an emtyp stack
+s.top()

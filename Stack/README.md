@@ -21,6 +21,27 @@ In addition, a stack is a recursive data structure. Here is a structural definit
 5. UI Navigation on Moible Apps
 6. and much more!
 
+# Problem
+Create a `class` called `Stack` and impelement the following three methods `push()`, `pop()`, and `top()`. The `push()` method should take in a value and push it to the top of the stack. The `pop()` method should pop off the topmost value on the stack. And the `top()` method should return the topmost value of the stack.
+
+Remember to lookout for edge cases. For example you cannot `pop()` or `top()` an empty stack. There are more edge cases to think about so try to think of how you can break your code!
+
+```node.js
+// starter code. DO. NOT. COPY. AND. PASTE. write it out with your own hands.
+class Stack(){
+    constructor(){
+    }
+    push(){
+    }
+    pop(){
+    }
+    top(){
+    }
+}
+
+```
+
+
 
 # Video Explanation
 
