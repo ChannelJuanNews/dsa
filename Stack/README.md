@@ -18,7 +18,7 @@ In addition, a stack is a recursive data structure. Here is a structural definit
 2. The Back Button (TM) on a web browser.
 3. String Reversal
 4. Expression Evaluation
-5. UI Navigation on Moible Apps
+5. UI Navigation on Mobile Apps
 6. and much more!
 
 # Problem
@@ -45,4 +45,7 @@ class Stack(){
 
 # Video Explanation
 
-(COMINING SOON!)
+Click on image below to watch YouTube video!
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+
+[![ Stack Data Structure Explained (JavaScript) ](https://img.youtube.com/vi/oQ4JvUz6FhI/0.jpg)](https://www.youtube.com/watch?v=oQ4JvUz6FhI)
